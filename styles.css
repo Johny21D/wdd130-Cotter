@@ -75,22 +75,26 @@ h1{
 }
 
 #p1, #p2, #p3{
-    padding-right:10px;
-    padding-left:10px;
+    padding-right:20px;
+    padding-left:20px;
     position: relative;
     
 }
 #p1{
     height:200px;
+    padding-top: 1px;
     
 }
 
 #p2{
     height:250px;
+    padding-top: 3px;
 }
 
 #p3{
     height:350px;
+    padding-top: 5px;
+    
     
 }
 
