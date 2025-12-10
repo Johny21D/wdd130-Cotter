@@ -6,11 +6,6 @@ body {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 
-@keyframes titleGlow {
-  0%   { text-shadow: 0 0 8px #fff; }
-  50%  { text-shadow: 0 0 18px #D5AC4E; }
-  100% { text-shadow: 0 0 8px #fff; }
-}
 
 #h1-home-page h1,
 #h1-life h1,
